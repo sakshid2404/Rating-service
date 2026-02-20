@@ -1,0 +1,23 @@
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+env/
+.venv/
+.Python
+pip-wheel-metadata/
+instance/
+*.db
+*.sqlite3
+
+# FastAPI
+*.log
+
+
+# VSCode
+
+# .env file containing sensitive data
+.env
+
